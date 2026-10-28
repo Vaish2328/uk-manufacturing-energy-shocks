@@ -1,0 +1,9 @@
+sector_code,sector_name,pre_shock_mean_TJ_per_GBPm,main_sample,reason
+C10,Manufacture of food products,7.963333333333334,1,Matched IoP + output PPI + energy-intensity data
+C13,Manufacture of textiles,301.0733333333333,1,Matched IoP + output PPI + energy-intensity data
+C17,Manufacture of paper and paper products,12.136666666666663,1,Matched IoP + output PPI + energy-intensity data
+C20,Manufacture of chemicals and chemical products,13.203333333333331,1,Matched IoP + output PPI + energy-intensity data
+C22,Manufacture of rubber and plastic products,9.893333333333333,1,Matched IoP + output PPI + energy-intensity data
+C24,Manufacture of basic metals,17.246666666666666,1,Matched IoP + output PPI + energy-intensity data
+C25,Fabricated metal products except machinery/equipment,13.86,1,Matched IoP + output PPI + energy-intensity data
+C23,Manufacture of other non-metallic mineral products,13.91,0,Energy intensity and IoP available; broad output-PPI mapping not retained
