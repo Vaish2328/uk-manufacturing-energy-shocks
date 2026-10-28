@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the project and the original ONS/DESNZ data sources."
+title: "UK Manufacturing Energy-Price Shocks: Reproducible Sector Panel Analysis"
+type: software
+authors:
+  - family-names: "Maila"
+    given-names: "Vaishnavi"
+year: 2026
+license: MIT
