@@ -1,0 +1,7 @@
+source,official_url,role
+ONS Index of Production,https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/indexofproduction/current,Output outcome
+ONS Producer Price Inflation,https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/producerpriceindexstatisticalbulletindataset/current,Producer-price outcome
+ONS Energy intensity by industry,https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsenergyreallocatedenergyconsumptionandenergyintensityunitedkingdom/current,2018–2020 pre-shock energy intensity
+"ONS Energy use by industry, source and fuel",https://www.ons.gov.uk/economy/environmentalaccounts/datasets/ukenvironmentalaccountsenergyusebyindustrysourceandfuel/current,Fuel-share source investigated; historical sector/fuel weights not used in the final primary index
+DESNZ Industrial energy price indices,https://www.gov.uk/government/statistical-data-sets/industrial-energy-price-indices,QEP 3.3.1 quarterly gas/electricity/all-fuels price indices
+ONS Higher energy costs article,https://www.ons.gov.uk/economy/economicoutputandproductivity/output/articles/theimpactofhigherenergycostsonukbusinesses/2021to2024,Sector context and energy-intensive manufacturing evidence
