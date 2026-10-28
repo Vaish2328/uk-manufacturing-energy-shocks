@@ -1,0 +1,8 @@
+sector_code,sector_name,2018,2019,2020,mean_2018_2020,log_energy_intensity_z,note
+C10,Manufacture of food products,8.43,7.96,7.5,7.963333333333334,-0.7581750632717601,
+C13,Manufacture of textiles,315.03,298.13,290.06,301.0733333333333,2.4004503753232624,C13 is an extreme pre-shock intensity observation and is explicitly tested in leave-one-sector-out robustness.
+C17,Manufacture of paper and paper products,12.92,12.03,11.46,12.136666666666663,-0.39176339765249707,
+C20,Manufacture of chemicals and chemical products,14.08,13.09,12.44,13.203333333333331,-0.3185145860945305,
+C22,Manufacture of rubber and plastic products,10.28,9.97,9.43,9.893333333333333,-0.5694722259116906,
+C24,Manufacture of basic metals,18.09,17.29,16.36,17.246666666666666,-0.08621617638175888,
+C25,Fabricated metal products except machinery/equipment,14.5,13.81,13.27,13.86,-0.276308926011024,
